@@ -1,0 +1,3 @@
+public/**/*.js
+# Project exclude paths
+/node_modules/
